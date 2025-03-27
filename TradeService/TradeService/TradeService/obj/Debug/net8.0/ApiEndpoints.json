@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TradeService.Controllers.TradeController",
+    "Method": "PlaceTrade",
+    "RelativePath": "api/trades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trade",
+        "Type": "TradeService.Controllers.Trade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

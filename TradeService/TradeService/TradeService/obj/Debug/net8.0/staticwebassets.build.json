@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SVH7dt+NyrKiKa478x584GeQIDsszdL6OyxKfRseeb0=",
+  "Source": "TradeService",
+  "BasePath": "_content/TradeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

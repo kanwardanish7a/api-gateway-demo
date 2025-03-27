@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BookService.Controllers.BookController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

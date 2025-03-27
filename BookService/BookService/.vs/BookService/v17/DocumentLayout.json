@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\bookservice\\bookservice\\bookservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|solutionrelative:bookservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\bookservice\\bookservice\\bookservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|solutionrelative:bookservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\bookservice\\bookservice\\bookservice\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|solutionrelative:bookservice\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\bookservice\\bookservice\\bookservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D6440B9-7B7E-4FED-9CCF-DA0825EDFEE7}|BookService\\BookService.csproj|solutionrelative:bookservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:19:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\appsettings.json",
+              "RelativeDocumentMoniker": "BookService\\appsettings.json",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\appsettings.json",
+              "RelativeToolTip": "BookService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:19:50.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Program.cs",
+              "RelativeDocumentMoniker": "BookService\\Program.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Program.cs",
+              "RelativeToolTip": "BookService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:14:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookService\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\BookService\\BookService\\BookService\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookService\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:14:06.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

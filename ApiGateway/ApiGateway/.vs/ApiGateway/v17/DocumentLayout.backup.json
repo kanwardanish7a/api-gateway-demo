@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\apigateway\\apigateway\\apigateway\\secrets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2E38520-94CD-44F7-897F-DAAC7BBD5193}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\secrets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.txt",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\secrets.txt",
+              "RelativeDocumentMoniker": "ApiGateway\\secrets.txt",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\secrets.txt",
+              "RelativeToolTip": "ApiGateway\\secrets.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-17T16:41:17.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:39:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T16:35:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:17:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Controllers\\ProxyController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\ProxyController.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\Controllers\\ProxyController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\ProxyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:16:51.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\ApiGateway\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:58:39.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

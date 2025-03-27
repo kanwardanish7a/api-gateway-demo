@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\tradeservice\\tradeservice\\tradeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|solutionrelative:tradeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\tradeservice\\tradeservice\\tradeservice\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|solutionrelative:tradeservice\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\apigatewayimp\\tradeservice\\tradeservice\\tradeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52F25D3B-65DF-46FD-A40A-13005C0B895D}|TradeService\\TradeService.csproj|solutionrelative:tradeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TradeService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TradeService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:20:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Program.cs",
+              "RelativeDocumentMoniker": "TradeService\\Program.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Program.cs",
+              "RelativeToolTip": "TradeService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:11:02.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "TradeService\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\ApiGatewayImp\\TradeService\\TradeService\\TradeService\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "TradeService\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:10:08.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
